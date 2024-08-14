@@ -107,7 +107,11 @@ IP-адреса сессии, или проверки наличия более 
 ## Источники
 
 [Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten)
+
 [OWASP TOP-10: практический взгляд на безопасность веб-приложений](https://habr.com/ru/companies/simplepay/articles/258499/)
+
 [SQL-инъекции для самых маленьких](https://habr.com/ru/articles/725134)
+
 [XSS-уязвимости и как их избежать](https://htmlacademy.ru/blog/js/xss)
+
 [HTTP-куки](https://developer.mozilla.org/ru/docs/Web/HTTP/Cookies)
